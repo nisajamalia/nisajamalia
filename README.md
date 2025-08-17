@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Android,Laravel**
+- 💬 Ask me about **Kotlin,Java,PHP,Laravel**
 
 - 📫 How to reach me **nisajamalia99@gmail.com**
 
